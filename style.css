@@ -1,5 +1,5 @@
 body{
-    font-family: 'century gotic', calibri,serif ;
+    font-family: 'Century Gothic', Calibri, serif;
     font-size: 13px ;
     margin: 0px;
     padding: 0px;
@@ -45,7 +45,7 @@ nav a{
     margin: 0 auto ;
 
 }
-.menu-ind :hover,.presentation{
+.menu-ind:hover,.presentation{
     border-top: 5px solid #4C8;
     background-color: rgba(64, 200, 130, 0.15);
 }
@@ -60,18 +60,18 @@ nav a{
     background-color: rgba(000, 112,  192 , 0.15);
 
 }
-.menu-cont :hover,.recomendation{
+.menu-cont:hover,.recomendation{
     
     border-top: 5px solid #E44D26;
     background-color: rgba(228, 77, 38, 0.15);
 }
-nav li :hover{
-    padding: 15px, 30px,20px,30px;
+nav li:hover{
+    padding: 15px 30px 20px 30px;
 }
 section{
     width:100%;
     min-height:300px ;
-    padding: bottom 10px ;
+    padding-bottom: 10px;
     margin: 10px;
 }
 .sec{
